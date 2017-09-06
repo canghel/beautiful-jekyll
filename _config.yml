@@ -3,32 +3,33 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://canghel.github.io"
-baseurl: ""
-
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
-# Of course don't forget to change the username and projectname to YOUR username and project
-
 # Name of website
-title: Computers, Math and Coffee (and kitten)
+title: Computational Biology & Coffee (and kitten)
+bigimg: "/img/big-img/rollyComputerCropped.jpg"
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+url: "http://canghel.github.io"
+baseurl: ""
+description: 
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me:
+    - Quick Bio: "aboutme"
+    - CV: "cv"
+  Projects:
+    - Placenta Vasculature: "https://canghel.github.io/placenta/"
+    - Seisure Prediction: "https://github.com/canghel/kaggle-seizure-prediction"
   Resources:
+    - Data Carpentry: "http://www.datacarpentry.org/"
+    - Software Carpentry: "http://software-carpentry.org/"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://canghel.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -38,6 +39,7 @@ avatar: "/img/avatar.png"
 # then specify the following parameter
 # title-img: /path/to/image
 
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -45,7 +47,7 @@ avatar: "/img/avatar.png"
 author:
   name: catalina
   email: "catalina.anghel@alum.utoronto.ca"
-  github: canghel    # eg. daattali
+  github: canghel  
 
 # Select which links to show in the footer
 footer-links-active:
@@ -74,7 +76,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "canghel.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "canghel.github.io"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
