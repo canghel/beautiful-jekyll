@@ -21,11 +21,12 @@ description:
 # List of links in the navigation bar
 navbar-links:
   About Me:
-    - Quick Bio: "aboutme"
+  #   - Quick Bio: "aboutme"
     - CV: "cv"
   Projects:
     - Placenta Vasculature: "https://canghel.github.io/placenta/"
     - Seisure Prediction: "https://github.com/canghel/kaggle-seizure-prediction"
+    - IsopureR: "https://cran.r-project.org/web/packages/ISOpureR/index.html"
   Resources:
     - Data Carpentry: "http://www.datacarpentry.org/"
     - Software Carpentry: "http://software-carpentry.org/"
