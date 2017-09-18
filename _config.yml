@@ -8,7 +8,7 @@
 #baseurl: "/projectname"
 
 # Name of website
-title: Computational biology
+title: Machine learning in biology
 bigimg: "/img/big-imgs/rollyComputerCropped.jpg"
 
 # Short description of your site
@@ -20,9 +20,6 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  About Me:
-  #   - Quick Bio: "aboutme"
-    - Resume: "resume"
   Projects:
     - Placenta Vasculature: "https://canghel.github.io/placenta/"
     - Seisure Prediction: "https://github.com/canghel/kaggle-seizure-prediction"
@@ -30,7 +27,8 @@ navbar-links:
   Resources:
     - Data Carpentry: "http://www.datacarpentry.org/"
     - Software Carpentry: "http://software-carpentry.org/"
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  About Me:
+    - Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
