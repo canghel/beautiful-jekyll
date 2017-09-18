@@ -22,7 +22,7 @@ description:
 navbar-links:
   About Me:
   #   - Quick Bio: "aboutme"
-    - CV: "cv"
+    - Resume: "resume"
   Projects:
     - Placenta Vasculature: "https://canghel.github.io/placenta/"
     - Seisure Prediction: "https://github.com/canghel/kaggle-seizure-prediction"
