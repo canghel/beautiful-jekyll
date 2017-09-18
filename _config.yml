@@ -22,7 +22,7 @@ description:
 navbar-links:
   Projects:
     - Placenta Vasculature: "https://canghel.github.io/placenta/"
-    - Seisure Prediction: "https://github.com/canghel/kaggle-seizure-prediction"
+    - Seisure Prediction: "https://canghel.github.io/kaggle-seizure-prediction/"
     - IsopureR: "https://cran.r-project.org/web/packages/ISOpureR/index.html"
   Resources:
     - Data Carpentry: "http://www.datacarpentry.org/"
