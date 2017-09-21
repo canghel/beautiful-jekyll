@@ -117,4 +117,8 @@
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
 
+  {% if jekyll.environment == 'production' %}
+  {% include google_analytics.html %}
+  {% endif %}
+
 </head>
