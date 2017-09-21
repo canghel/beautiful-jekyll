@@ -82,7 +82,7 @@ url-pretty: "canghel.github.io"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-# google_analytics: "UA-106742177-1"
+google_analytics: "UA-106742177-1"
 
 # Google Tag Manager ID
 #gtm: ""
