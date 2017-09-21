@@ -21,7 +21,7 @@ description:
 # List of links in the navigation bar
 navbar-links:
   Projects:
-    - Placenta Vasculature: "https://canghel.github.io/placenta/"
+    # - Placenta Vasculature: "https://canghel.github.io/placenta/"
     - Seisure Prediction: "https://canghel.github.io/kaggle-seizure-prediction/"
     - IsopureR: "https://cran.r-project.org/web/packages/ISOpureR/index.html"
   Resources:
@@ -82,7 +82,7 @@ url-pretty: "canghel.github.io"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-106742177-1"
+# google_analytics: "UA-106742177-1"
 
 # Google Tag Manager ID
 #gtm: ""
