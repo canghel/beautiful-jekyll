@@ -47,13 +47,14 @@ author:
   name: catalina
   email: "catalina.anghel@alum.utoronto.ca"
   github: canghel  
+  twitter: cvanghel
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   google-plus: false
   github: true
   reddit: false
